@@ -1,0 +1,7 @@
+Metro style apps are designed to leverage special hardware capabilities and context information to create an experience that is tailored for the user. For example, an app that uses sensors to determine your location, delivering content appropriate to that context, while also using an ambient light sensor to adjust the brightness level of the screen. Metro style apps are built using your existing skills and can reuse code assets you already have. If you know web development technologies, you can use HTML5, CSS3, and JavaScript. Or, you can use more traditional programming techniques.
+
+Now it is like general UWP apps.
+
+Reference:
+	http://www.csharplearners.com/category/metro-style-apps/
+
