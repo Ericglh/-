@@ -1,0 +1,6 @@
+Wil:
+	The Windows Internal Libraries (WIL) are a collection of libraries used across Windows source code to allow modern (STD-like) development when working with Windows-specific features. For example, the WIL resource wrappers include "unique_ptr-like" wrappers for internal types, like HANDLEs and events.
+
+	All WIL classes and functions are, by default, available behind the wil namespace
+
+	https://microsoft.sharepoint.com/:w:/r/teams/osg_development/_layouts/15/Doc.aspx?sourcedoc=%7BA33935CD-0313-4A50-BD20-07235F8C865A%7D&file=Windows%20Internal%20Libraries%20for%20C%2B%2B%20Usage%20Guide.docx&action=default&mobileredirect=true
